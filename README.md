@@ -1,11 +1,11 @@
 # About
 
-This repository contains a reference implementation of the Coding and Multi-Parameterisation of Ambisonic Sound Scenes (COMPASS) [1] method.
+This repository contains a reference implementation of the Coding and Multi-Parameterisation of Ambisonic Sound Scenes (COMPASS) method, as presented in publication [1].
 
 ## Dependencies
 
 This Matlab code is reliant on the following libraries:
-* [afSTFT] (https://github.com/jvilkamo/afSTFT)
+* [alias-free STFT](https://github.com/jvilkamo/afSTFT)
 * [Higher-Order-Ambisonics](https://github.com/polarch/Higher-Order-Ambisonics)
 * [Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform)
 
