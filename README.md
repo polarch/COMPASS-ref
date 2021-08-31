@@ -8,6 +8,7 @@ This Matlab code is reliant on the following libraries:
 * [alias-free STFT](https://github.com/jvilkamo/afSTFT)
 * [Higher-Order-Ambisonics](https://github.com/polarch/Higher-Order-Ambisonics)
 * [Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform)
+* [Vector-Base-Amplitude-Panning](https://github.com/polarch/Vector-Base-Amplitude-Panning)
 
 Precompiled mex files of afSTFT are provided in the ./ext-lib/afSTFT directory of the repo. Please download the rest of the dependencies and add them to Matlab's search path.
 
